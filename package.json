@@ -1,0 +1,20 @@
+{
+  "name": "first_npm",
+  "version": "1.0.0",
+  "description": "NPM_tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "live-server"
+  },
+  "author": "Morshed",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.7",
+    "underscore": "^1.12.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}

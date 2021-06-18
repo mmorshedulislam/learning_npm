@@ -1,0 +1,23 @@
+npm init 
+.
+.
+then some option setup
+.
+.
+npm install underscore --save
+
+npm install -save-dev gulp
+
+npm install lodash
+
+npm install
+
+npm install -g nodemon
+
+nodemon app.js
+
+npm install -g live-server
+
+live-server
+
+npm run server
